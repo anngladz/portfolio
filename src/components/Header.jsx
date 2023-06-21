@@ -64,7 +64,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  href='https://linkedin.com/'
+                  href='https://www.linkedin.com/in/anna-gladzinska/'
                   target='_blank'
                   rel='noreferrer'
                 >
